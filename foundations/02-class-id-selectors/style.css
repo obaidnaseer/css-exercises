@@ -10,7 +10,7 @@
 
 .odd {
     background-color: lightpink;
-    font-family: Verdana, Geneva, Tahoma, sans-serif, DejaVu;
+    font-family: Verdana, "DejaVu", sans-serif;
 }
 
 .big {
